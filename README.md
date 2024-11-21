@@ -1,1 +1,1 @@
-# Dataspark
+In this project,I did preprocessing of data and visualization of data to get better insights about the company named global electronics.The global electronics was a leading electronics manufacturing company.The datas of global electronics are given by them . I cleaned the data and creating dashboard to visualize the insights about the fields,where they perform well and where they are not.To get a better understanding about the companies growth and the areas that they want to perform well.
